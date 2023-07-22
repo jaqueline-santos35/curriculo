@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="./assets/img/card.png"/>
+    <title>document</title>
+</head>
+<html>
+<head>
+    <title>curriculo</title>
+    <meta charset="utf-8"/>
+</head>
+<body>  <h1 align=center>jaqueline dos santos pinto</h1>
+
+<p>Brasileira,Solteeira,35 anos</p>
+<p>Contato:(71)98665-3138
+<p>E-mail:jaque_vitor_23@hotmail.com</>
+<p>Endereço:MUSSURUNGA1,SALVADOR-BA</>
+
+<h5>Objetivo</h5>
+
+<p>Atuar na Aréa de Programação</p>
+
+<h5>Formação Acadêmica</h5>
+
+<P>Eletrotecnica em (2018)</p>
+
+<h5>Cursos Complementares</h5>
+
+<P>Operador de caixa em(2008)</p>
+<P>Administração de A&B em(2011)</p>
+<p>Programação em andamento</p>
+
+<h5>Experiência</h5>
+
+<p>Coopeira de(2009 á 2011)</p>
+<p>Auxiliar de Compras de(funcional(Atualmente)</p>
+
+
+</body>
+</html>
